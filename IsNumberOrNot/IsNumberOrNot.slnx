@@ -2,6 +2,9 @@
   <Folder Name="/02/">
     <Project Path="../Consoleextensions/Consoleextensions.csproj" />
   </Folder>
+  <Folder Name="/03/">
+    <Project Path="../SortNumber/TheGreathestNumber.csproj" Id="d60a9768-54d0-4fe9-bc72-9363acbd0da1" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="../Shared/Shared.csproj" Id="dd20e25e-e76d-4472-bdaf-44e40b3fd6d9" />
   </Folder>
