@@ -1,3 +1,9 @@
 <Solution>
+  <Folder Name="/02/">
+    <Project Path="../Consoleextensions/Consoleextensions.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="../Shared/Shared.csproj" Id="dd20e25e-e76d-4472-bdaf-44e40b3fd6d9" />
+  </Folder>
   <Project Path="IsNumberOrNot.csproj" />
 </Solution>
